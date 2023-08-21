@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Justus03
-- 👀 I’m interested in apps development and ethical hacking
-- 🌱 I’m currently learning c language and networking administration
-- 💞️ I’m looking to collaborate with people passionate on app development and ethical hacking 👍🏾😁
+- 👀 I’m interested in problems solving and programming
 - 📫 email: spk.justus@gmail.com 
 
 <!---
