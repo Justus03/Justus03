@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justus03
-- 👀 I’m interested in problems solving and programming
+- 👀 I’m interested in problem solving and programming
 
 <!---
 Justus03/Justus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
