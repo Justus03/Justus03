@@ -11,7 +11,7 @@ Welcome to my profile! 🚀
 
 
 ## 🌍 Connect with me:
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](www.linkedin.com/in/spk-kevin07)
 
 <!---
 Justus03/Justus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
